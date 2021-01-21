@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d429eddd-4e77-472c-889a-168de85f1ea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task1_l2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_l2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3_l2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task4_l2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task5_l2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_l2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3_l2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3_l2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +46,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../PyProjects/first/step_1.py" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.task6_l2">
+  <component name="RunManager" selected="Python.task3_l2">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="lesson2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,23 +207,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1610892334556">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1611058569910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610892334556" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1610892334556">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611058569910" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1610892509576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610892334556" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1610892334556">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610892509576" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1610892509576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610892334556" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1610892334556">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610892509576" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1610892509576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610892334556" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610892509576" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1610892509576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610892509576" />
   </component>
 </project>

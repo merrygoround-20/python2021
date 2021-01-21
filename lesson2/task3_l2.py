@@ -17,9 +17,9 @@ month_dict = {1: 'Зима',
               12: 'Зима'}
 if n <= 12 & n >= 1:
     print(f'Время года - {month_dict[n]}')
-while n == 0 or n > 12:
+elif n == 0 or n > 12:
     print('Нет такого месяца!')
-    break
+
 
 # способ 2
 
@@ -32,6 +32,5 @@ elif n >= 6 | n <= 8:
     print('Время года - лето')
 elif n >= 9 | n <= 11:
     print('Время года - осень')
-while n == 0 or n > 12:
+elif n == 0 or n > 12:
     print('Нет такого месяца!')
-    break
